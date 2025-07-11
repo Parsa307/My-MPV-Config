@@ -26,6 +26,7 @@ Configuration based on these excellent guides and setups:
 - Subtitle timing fixes and fallback settings
 - Interpolation enabled for smoother playback
 - Customized key bindings (volume, frame-step, fullscreen, mute, etc.)
+- Compatible with [`sub-select`](https://github.com/CogentRedTester/mpv-sub-select) for better subtitle stream handling
 
 ---
 
@@ -34,6 +35,7 @@ Configuration based on these excellent guides and setups:
 - You may want to adjust `alang`, `slang`, and interpolation settings to your own preferences.
 - Caps Lock can interfere with key bindings that differentiate between lowercase and uppercase (e.g., `m` vs `M`).
 - This setup avoids unnecessary complexity — but you can explore features like debanding, shaders if you want more.
+- `sub-select` is recommended to auto-pick the best subtitle track. It's especially helpful when dealing with multiple sub streams like signs & songs vs full subs.
 
 ---
 
@@ -43,3 +45,4 @@ Place the following files in your mpv config folder:
 
 - `mpv.conf` → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
 - `input.conf` → same location as above
+- `sub-select.json` → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
