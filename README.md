@@ -12,6 +12,7 @@ Configuration based on these excellent guides and setups:
 - [mpv.conf Guide by iamscum (WordPress)](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/)
 - [mpv.conf on GitLab (iamscum)](https://gitlab.com/iamscum_website/config_mpv/-/blob/main/mpv.conf)
 - [input.conf on GitLab (iamscum)](https://gitlab.com/iamscum_website/config_mpv/-/blob/main/input.conf)
+- [sub-select Wiki on GitHub (CogentRedTester)](https://github.com/CogentRedTester/mpv-sub-select/wiki/Example-Configs)
 
 ## ✅ Features
 
