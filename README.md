@@ -2,7 +2,7 @@
 
 This is my custom configuration for [mpv](https://mpv.io/), a powerful media player. It's optimized for a clean look, smooth playback, and a good default experience.
 
-You may want to tweak some options depending on your system, display, or preferences.
+You may want to tweak some options depending on your system, display, or personal preferences.
 
 ---
 
@@ -21,11 +21,11 @@ Configuration based on these excellent guides and setups:
 
 - High-quality video rendering with `gpu-next` and Vulkan
 - Hardware decoding enabled
-- Auto-language/subtitle preference (Japanese audio, English subs)
+- Automatic language and subtitle preferences (Japanese audio, English subs)
 - High-quality screenshots saved to `~/Pictures/Screenshots`
 - Subtitle timing fixes and fallback settings
 - Interpolation enabled for smoother playback
-- Customized key bindings (volume, frame-step, fullscreen, mute, etc.)
+- Custom key bindings for volume, frame-step, fullscreen toggle, mute, and more
 - Compatible with [`sub-select`](https://github.com/CogentRedTester/mpv-sub-select) for better subtitle stream handling
 
 ---
