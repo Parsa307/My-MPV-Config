@@ -23,7 +23,7 @@ Configuration based on these excellent guides and setups:
 - Hardware decoding enabled
 - HDR enabled
 - Automatic language and subtitle preferences (Japanese audio, English subs)
-- High-quality screenshots saved to `~/Pictures/Screenshots`
+- High-quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows)
 - Subtitle timing fixes and fallback settings
 - Interpolation enabled for smoother playback
 - Custom key bindings for volume, frame-step, fullscreen toggle, mute, and more
