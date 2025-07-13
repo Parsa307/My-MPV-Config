@@ -23,7 +23,6 @@ Configuration based on these excellent guides and setups:
 - Automatic language and subtitle preferences (Japanese audio, English subs)
 - High-quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows)
 - Subtitle timing fixes and fallback settings
-- Interpolation enabled for smoother playback
 - Custom key bindings for volume, frame-step, fullscreen toggle, mute, and more
 - Compatible with [`sub-select`](https://github.com/CogentRedTester/mpv-sub-select) for better subtitle stream handling
 
