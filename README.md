@@ -9,6 +9,7 @@ You may want to tweak some options depending on your system, display, or persona
 Configuration based on these excellent guides and setups:
 
 - [Video Playback Guide by iamscum (WordPress)](https://iamscum.wordpress.com/guides/videoplayback-guide/)
+- [mpv.conf Guide by mpv-player (GitHub)](https://raw.githubusercontent.com/mpv-player/mpv/release/0.40/etc/mpv.conf)
 - [mpv.conf Guide by iamscum (WordPress)](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/)
 - [mpv.conf on GitLab (iamscum)](https://gitlab.com/iamscum_website/config_mpv/-/blob/main/mpv.conf)
 - [input.conf on GitLab (iamscum)](https://gitlab.com/iamscum_website/config_mpv/-/blob/main/input.conf)
