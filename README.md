@@ -1,6 +1,6 @@
 # My MPV Config
 
-This is my custom configuration for [mpv](https://mpv.io/), a powerful media player. It's optimized for a smooth playback, and a good default experience.
+This is my custom configuration for [mpv](https://mpv.io/), a powerful and customizable media player. It's optimized for a smooth playback, and a good default experience.
 
 You may want to tweak some options depending on your system, display, or personal preferences.
 
@@ -14,6 +14,7 @@ Configuration based on these excellent guides and setups:
 - [mpv.conf Guide by iamscum (WordPress)](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/)
 - [mpv.conf on GitLab (iamscum)](https://gitlab.com/iamscum_website/config_mpv/-/blob/main/mpv.conf)
 - [input.conf on GitLab (iamscum)](https://gitlab.com/iamscum_website/config_mpv/-/blob/main/input.conf)
+- [thumbfast.conf on GitHub (po5)](https://raw.githubusercontent.com/po5/thumbfast/master/thumbfast.conf)
 - [sub-select Wiki on GitHub (CogentRedTester)](https://github.com/CogentRedTester/mpv-sub-select/wiki/Example-Configs)
 
 ## ✅ Features
