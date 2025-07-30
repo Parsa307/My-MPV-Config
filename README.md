@@ -24,7 +24,7 @@ Configuration based on these excellent guides and setups:
 - High-quality video rendering with `gpu-next` and Vulkan
 - Hardware decoding enabled
 - HDR enabled
-- Automatic language and subtitle preferences (Japanese audio, English subs)
+- Automatic language and subtitle preferences (Japanese audio, English subs) (if Japanese Audio doesn't exist, it falls back to English and uses no subs.)
 - High-quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows)
 - Subtitle timing fixes and fallback settings
 - Custom key bindings for volume, frame-step, fullscreen toggle, mute, and more
