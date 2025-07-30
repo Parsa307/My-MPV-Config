@@ -1,6 +1,6 @@
 # My MPV Config
 
-This is my custom configuration for [mpv](https://mpv.io/), a powerful and customizable media player. It's optimized for a smooth playback, and a good default experience.
+This is my custom configuration for [mpv](https://mpv.io/), a powerful and customizable media player. It's optimized for a smooth playback, and a good default experience. Suitable for anime watching.
 
 You may want to tweak some options depending on your system, display, or personal preferences.
 
