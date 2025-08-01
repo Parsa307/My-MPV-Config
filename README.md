@@ -20,7 +20,7 @@ Configuration based on these excellent guides and setups:
 ## ✅ Features
 
 - Keep Open is enabled.
-- Default OSC is disabled. Use [`ModernZ`](https://github.com/Samillion/ModernZ)
+- Default OSC is disabled. Use [`ModernZ`](https://github.com/Samillion/ModernZ) (More modern)
 - High-quality video rendering with `gpu-next` and Vulkan
 - Hardware decoding enabled
 - HDR enabled
@@ -28,7 +28,7 @@ Configuration based on these excellent guides and setups:
 - High-quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows)
 - Subtitle timing fixes and fallback settings
 - Custom key bindings for volume, frame-step, fullscreen toggle, mute, and more
-- Hardware decoding enabled for thumbfast.
+- Hardware decoding enabled for thumbfast
 - Compatible with [`sub-select`](https://github.com/CogentRedTester/mpv-sub-select) for better subtitle stream handling
 
 ## 💡 Notes
