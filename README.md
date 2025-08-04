@@ -42,7 +42,7 @@ Configuration based on these excellent guides and setups:
 
 Place the following files in your mpv config folder:
 
-- `mpv.conf` → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
-- `input.conf` → same location as above
-- `script-opts/thumbfast.conf` (Linux) → or `script-opts\thumbfast.conf` (Windows) `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
-- `script-opts/sub-select.json` (Linux) → or `script-opts\sub-select.json` (Windows) `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
+- `mpv/mpv.conf` (Linux) or `mpv\mpv.conf` (Windows) → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
+- `mpv/input.conf` (Linux) or `mpv\input.conf` (Windows) → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
+- `mpv/script-opts/thumbfast.conf` (Linux) or `mpv\script-opts\thumbfast.conf` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
+- `mpv/script-opts/sub-select.json` (Linux) or `mpv\script-opts\sub-select.json` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
