@@ -27,14 +27,13 @@ Configuration based on these excellent guides and setups:
 - Automatic language and subtitle preferences (Japanese audio, English subs) (If Japanese Audio doesn't exist, it falls back to English and uses no subs)
 - High-quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows)
 - Subtitle timing fixes and fallback settings
-- Custom key bindings for volume, frame-step, fullscreen toggle, mute, and more
+- Custom key bindings for volume, frame-step, fullscreen toggle, and more
 - Hardware decoding enabled for thumbfast
 - Compatible with [`sub-select`](https://github.com/CogentRedTester/mpv-sub-select) for better subtitle stream handling
 
 ## 💡 Notes
 
 - You may want to adjust `alang`, `slang`, and interpolation settings to your own preferences.
-- Caps Lock can interfere with key bindings that differentiate between lowercase and uppercase (e.g., `m` vs `M`).
 - This setup avoids unnecessary complexity. but you can explore features like debanding, shaders if you want more.
 - `sub-select` is recommended to auto-pick the best subtitle track. It's especially helpful when dealing with multiple sub streams like signs & songs vs full subs.
 
