@@ -25,7 +25,7 @@ Configuration based on these excellent guides and setups:
 - Hardware decoding enabled
 - HDR enabled
 - Automatic language and subtitle preferences (Japanese audio, English subs) (If Japanese Audio doesn't exist, it falls back to English and uses no subs)
-- High-quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows)
+- WEBP loseless quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows)
 - Subtitle fix timing enabled
 - Custom key bindings for volume, frame-step, fullscreen toggle, and more
 - Hardware decoding enabled for thumbfast
