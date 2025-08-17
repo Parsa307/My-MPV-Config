@@ -26,7 +26,7 @@ Configuration based on these excellent guides and setups:
 - HDR enabled
 - Automatic language and subtitle preferences (Japanese audio, English subs) (If Japanese Audio doesn't exist, it falls back to English and uses no subs)
 - High-quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows)
-- Subtitle timing fixes and fallback settings
+- Subtitle timing fixes
 - Custom key bindings for volume, frame-step, fullscreen toggle, and more
 - Hardware decoding enabled for thumbfast
 - Compatible with [`sub-select`](https://github.com/CogentRedTester/mpv-sub-select) for better subtitle stream handling
