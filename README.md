@@ -34,7 +34,6 @@ Configuration based on these excellent guides and setups:
 ## 💡 Notes
 
 - You may want to adjust `alang`, `slang` to your own preferences.
-- This setup avoids unnecessary complexity. but you can explore features like debanding, shaders if you want more.
 - `sub-select` is recommended to auto-pick the best subtitle track. It's especially helpful when dealing with multiple sub streams like signs & songs vs full subs.
 
 ## 🔧 Where to Put These
