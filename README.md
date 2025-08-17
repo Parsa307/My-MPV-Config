@@ -19,8 +19,8 @@ Configuration based on these excellent guides and setups:
 
 ## ✅ Features
 
-- Keep Open is enabled.
-- Default OSC is disabled. Use [`ModernZ`](https://github.com/Samillion/ModernZ) (More modern)
+- Keep open enabled
+- Default OSC disabled. Use [`ModernZ`](https://github.com/Samillion/ModernZ) (More modern)
 - High-quality video rendering with `gpu-next` and Vulkan
 - Hardware decoding enabled
 - HDR enabled
