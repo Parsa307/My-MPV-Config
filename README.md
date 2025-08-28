@@ -41,8 +41,8 @@ Place the following files in your mpv config folder:
 - `mpv/script-opts/thumbfast.conf` (Linux) or `mpv\script-opts\thumbfast.conf` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
 - `mpv/script-opts/sub-select.json` (Linux) or `mpv\script-opts\sub-select.json` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
 
-## My Specs: (Stable for the specs).
+## My Specs
 - Host: MSI Raider GE76 12UGS
 - CPU: 12th Gen Intel(R) Core(TM) i7-12700H (20) @ 4.70 GHz
-- GPU: NVIDIA Geforce RTX 3070 Ti Laptop GPU**
-- Memory: 31.10 GiB**
+- GPU: NVIDIA Geforce RTX 3070 Ti Laptop GPU
+- Memory: 31.10 GiB
