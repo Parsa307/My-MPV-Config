@@ -2,7 +2,7 @@
 
 This is my custom configuration for [mpv](https://mpv.io/), a powerful and customizable media player. It's optimized for a smooth playback, and a good default experience. Suitable for anime watching. Tested on Arch Linux.
 
-⚠️ Windows Users, we strongly advise you to do not use MPV. It has weird issues for Windows. If you're running to a freezing issues, Please don't open a GitHub Issue regrading that. You could try undoing this [`commit`](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb), Downside it uses More System Memory.
+⚠️ Windows Users, we strongly advise you to do not use MPV. It has weird issues for Windows. If you're running to a freezing issues, Please don't open a GitHub Issue regrading that. You could try undoing this [commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb), Downside it uses More System Memory.
 
 You may want to tweak some options depending on your system, display, or personal preferences.
 
