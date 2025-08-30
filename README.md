@@ -51,5 +51,5 @@ Place the following files in your mpv config folder:
 - Memory: 31.10 GiB
 
 ## ⚙️ Troubleshooting
-- 1. Enable caching by undoing this [commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb).
-- 2. Changing the filesystem.
+- Enable caching by undoing this [commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb).
+- Changing the filesystem.
