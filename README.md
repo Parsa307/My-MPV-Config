@@ -2,8 +2,6 @@
 
 This is my custom configuration for [mpv](https://mpv.io/), a powerful and customizable media player. It's optimized for a smooth playback, and a good default experience. Suitable for **Anime** watching. Tested on **Arch Linux**.
 
-⚠️ Windows Users, If you're experiencing freezing issues, Please don't open a GitHub Issue regrading that. You could try undoing this [commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb), Downside it uses More System Memory. Also, you could try changing the filesystem. Cause, NTFS is garbage! 
-
 You may want to tweak some options depending on your system, display, or personal preferences.
 
 ## 📋 Sources & Inspiration
@@ -49,3 +47,6 @@ Place the following files in your mpv config folder:
 - CPU: 12th Gen Intel(R) Core(TM) i7-12700H (20) @ 4.70 GHz
 - GPU: NVIDIA Geforce RTX 3070 Ti Laptop GPU
 - Memory: 31.10 GiB
+
+## ⚙️ Troubleshooting
+⚠️ Windows Users, If you're experiencing freezing issues, Please don't open a GitHub Issue regrading that. You could try undoing this [commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb), Downside it uses More System Memory. Also, you could try changing the filesystem. Cause, NTFS is garbage!
