@@ -19,11 +19,11 @@ Configuration based on these excellent guides and setups:
 
 - Keep open enabled.
 - Default OSC disabled, use [ModernZ](https://github.com/Samillion/ModernZ) (More modern).
-- High-quality video rendering with `gpu-next` and Vulkan.
+- High-quality video rendering with gpu-next and Vulkan.
 - Hardware decoding enabled.
 - HDR enabled.
 - Automatic language and subtitle preferences (Japanese audio, English subs).
-- WEBP loseless quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows).
+- WEBP loseless quality screenshots saved to ~/Pictures/Screenshots (Linux) or %USERPROFILE%\Pictures\Screenshots (Windows).
 - Subtitle with matching audio disabled.
 - Subtitle fix timing enabled.
 - Custom key bindings for volume, frame-step.
@@ -39,10 +39,10 @@ Configuration based on these excellent guides and setups:
 
 Place the following files in your mpv config folder:
 
-- `mpv/mpv.conf` (Linux) or `mpv\mpv.conf` (Windows) → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
-- `mpv/input.conf` (Linux) or `mpv\input.conf` (Windows) → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
-- `mpv/script-opts/thumbfast.conf` (Linux) or `mpv\script-opts\thumbfast.conf` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
-- `mpv/script-opts/sub-select.json` (Linux) or `mpv\script-opts\sub-select.json` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
+- mpv/mpv.conf (Linux) or mpv\mpv.conf (Windows) → ~/.config/mpv (Linux) or %APPDATA%\mpv (Windows)
+- mpv/input.conf (Linux) or mpv\input.conf (Windows) → ~/.config/mpv (Linux) or %APPDATA%\mpv (Windows)
+- mpv/script-opts/thumbfast.conf (Linux) or mpv\script-opts\thumbfast.conf (Windows) → ~/.config/mpv/script-opts (Linux) or %APPDATA%\mpv\script-opts (Windows)
+- mpv/script-opts/sub-select.json (Linux) or mpv\script-opts\sub-select.json (Windows) → ~/.config/mpv/script-opts (Linux) or %APPDATA%\mpv\script-opts (Windows)
 
 ## 💻 My Specs
 - Host: MSI Raider GE76 12UGS
