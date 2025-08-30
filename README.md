@@ -18,7 +18,7 @@ Configuration based on these excellent guides and setups:
 ## ✅ Features
 
 - Keep open enabled.
-- Default OSC disabled Use [`ModernZ`](https://github.com/Samillion/ModernZ) (More modern).
+- Default OSC disabled, use [ModernZ](https://github.com/Samillion/ModernZ) (More modern).
 - High-quality video rendering with `gpu-next` and Vulkan.
 - Hardware decoding enabled.
 - HDR enabled.
@@ -28,12 +28,12 @@ Configuration based on these excellent guides and setups:
 - Subtitle fix timing enabled.
 - Custom key bindings for volume, frame-step.
 - Hardware decoding enabled for thumbfast.
-- Compatible with [`sub-select`](https://github.com/CogentRedTester/mpv-sub-select) for better subtitle stream handling.
+- Compatible with [sub-select](https://github.com/CogentRedTester/mpv-sub-select) for better subtitle stream handling.
 
 ## 💡 Notes
 
-- You may want to adjust `alang`, `slang` to your own preferences.
-- `sub-select` is recommended to auto-pick the best subtitle track. It's especially helpful when dealing with multiple sub streams like signs & songs vs full subs.
+- You may want to adjust alang, slang to your own preferences.
+- sub-select is recommended to auto-pick the best subtitle track. It's especially helpful when dealing with multiple sub streams like signs & songs vs full subs.
 
 ## 🔧 Where to Put These
 
