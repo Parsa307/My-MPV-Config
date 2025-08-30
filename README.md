@@ -4,7 +4,7 @@ This is my custom configuration for [mpv](https://mpv.io/), a powerful and custo
 
 You may want to tweak some options depending on your system, display, or personal preferences.
 
-If you're experiencing issues, try [Troubleshooting](https://github.com/Parsa307/My-MPV-Config#%EF%B8%8F-troubleshooting).
+If you're experiencing issues, try [Troubleshooting](https://github.com/Parsa307/My-MPV-Config?tab=readme-ov-file#%EF%B8%8F-troubleshooting).
 
 ## 📋 Sources & Inspiration
 
