@@ -51,5 +51,5 @@ Place the following files in your mpv config folder:
 - Memory: 31.10 GiB
 
 ## ⚙️ Troubleshooting
-- Enable caching by undoing this [commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb). (Helps freezing issues on NTFS).
+- Enable caching by undoing this [commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb). (Helps freezing issues on NTFS). (Downside, uses More System Memory)
 - Changing the filesystem.
