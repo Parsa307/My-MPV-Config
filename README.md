@@ -4,6 +4,8 @@ This is my custom configuration for [mpv](https://mpv.io/), a powerful and custo
 
 You may want to tweak some options depending on your system, display, or personal preferences.
 
+If you're experiencing issues, try [Troubleshooting](https://github.com/Parsa307/My-MPV-Config#%EF%B8%8F-troubleshooting).
+
 ## 📋 Sources & Inspiration
 
 Configuration based on these excellent guides and setups:
@@ -15,18 +17,18 @@ Configuration based on these excellent guides and setups:
 
 ## ✅ Features
 
-- Keep open enabled
-- Default OSC disabled Use [`ModernZ`](https://github.com/Samillion/ModernZ) (More modern)
-- High-quality video rendering with `gpu-next` and Vulkan
-- Hardware decoding enabled
-- HDR enabled
-- Automatic language and subtitle preferences (Japanese audio, English subs)
-- WEBP loseless quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows)
-- Subtitle with matching audio disabled
-- Subtitle fix timing enabled
-- Custom key bindings for volume, frame-step
-- Hardware decoding enabled for thumbfast
-- Compatible with [`sub-select`](https://github.com/CogentRedTester/mpv-sub-select) for better subtitle stream handling
+- Keep open enabled.
+- Default OSC disabled Use [`ModernZ`](https://github.com/Samillion/ModernZ) (More modern).
+- High-quality video rendering with `gpu-next` and Vulkan.
+- Hardware decoding enabled.
+- HDR enabled.
+- Automatic language and subtitle preferences (Japanese audio, English subs).
+- WEBP loseless quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows).
+- Subtitle with matching audio disabled.
+- Subtitle fix timing enabled.
+- Custom key bindings for volume, frame-step.
+- Hardware decoding enabled for thumbfast.
+- Compatible with [`sub-select`](https://github.com/CogentRedTester/mpv-sub-select) for better subtitle stream handling.
 
 ## 💡 Notes
 
@@ -49,4 +51,5 @@ Place the following files in your mpv config folder:
 - Memory: 31.10 GiB
 
 ## ⚙️ Troubleshooting
-⚠️ Windows Users, If you're experiencing freezing issues, Please don't open a GitHub Issue regrading that. You could try undoing this [commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb), Downside it uses More System Memory. Also, you could try changing the filesystem. Cause, NTFS is garbage!
+- 1. Enable caching by undoing this [commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb).
+- 2. Changing the filesystem.
