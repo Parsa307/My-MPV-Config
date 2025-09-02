@@ -1,6 +1,6 @@
 # My MPV Config
 
-This is my custom configuration for [mpv](https://mpv.io/), a powerful and customizable media player. It's optimized for a smooth playback, and a good default experience. Suitable for **Anime** watching. Tested on **Arch Linux**.
+This is my custom configuration for [mpv](https://mpv.io), a powerful and customizable media player. It's optimized for a smooth playback, and a good default experience. Suitable for **Anime** watching. Tested on **CachyOS**.
 
 You may want to tweak some options depending on your system, display, or personal preferences.
 
@@ -10,7 +10,7 @@ If you're experiencing issues, try [Troubleshooting](https://github.com/Parsa307
 
 Configuration based on these excellent guides and setups:
 
-- [MPV Manual](https://mpv.io/manual/stable/)
+- [MPV Manual](https://mpv.io/manual/stable)
 - [mpv.conf Guide by mpv-player (GitHub)](https://raw.githubusercontent.com/mpv-player/mpv/release/0.40/etc/mpv.conf)
 - [thumbfast.conf on GitHub (po5)](https://raw.githubusercontent.com/po5/thumbfast/master/thumbfast.conf)
 - [sub-select Wiki on GitHub (CogentRedTester)](https://github.com/CogentRedTester/mpv-sub-select/wiki/Example-Configs)
