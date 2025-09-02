@@ -33,6 +33,7 @@ Configuration based on these excellent guides and setups:
 ## 💡 Notes
 
 - You may want to adjust alang, slang to your own preferences.
+- I also use [autoload](https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/autoload.lua) is recommended to add playlists.
 - sub-select is recommended to auto-pick the best subtitle track. It's especially helpful when dealing with multiple sub streams like signs & songs vs full subs.
 
 ## 🔧 Where to Put These
