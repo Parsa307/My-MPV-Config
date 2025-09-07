@@ -18,6 +18,7 @@ Configuration based on these excellent guides and setups:
 ## ✅ Features
 
 - Keep open enabled.
+- Ignore hidden is disabled for AutoLoad.
 - Default OSC disabled, use [ModernZ](https://github.com/Samillion/ModernZ) (More modern).
 - High-quality video rendering with gpu-next and Vulkan.
 - Hardware decoding enabled.
@@ -44,6 +45,7 @@ Place the following files in your mpv config folder:
 - `mpv/input.conf` (Linux) or `mpv\input.conf` (Windows) → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
 - `mpv/script-opts/thumbfast.conf` (Linux) or `mpv\script-opts\thumbfast.conf` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
 - `mpv/script-opts/sub-select.json` (Linux) or `mpv\script-opts\sub-select.json` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
+- `mpv/script-opts/autoload.conf` (Linux) or `mpv\script-opts\autoload.conf` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
 
 ## 💻 My Specs
 - Host: MSI Raider GE76 12UGS
