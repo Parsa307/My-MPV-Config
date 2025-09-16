@@ -6,7 +6,7 @@ You may want to tweak some options depending on your system, display, or persona
 
 If you're experiencing issues, try [Troubleshooting](https://github.com/Parsa307/My-MPV-Config?tab=readme-ov-file#%EF%B8%8F-troubleshooting).
 
-## 📋 Sources & Inspiration
+## 📋 Sources
 
 Configuration based on these excellent guides and setups:
 
