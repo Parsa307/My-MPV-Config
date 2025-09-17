@@ -17,7 +17,6 @@ Configuration based on these excellent guides and setups:
 
 ## ✅ Features
 
-- Keep open enabled.
 - Ignore hidden is disabled for autoload.
 - Default OSC disabled, use [ModernZ](https://github.com/Samillion/ModernZ) (More modern).
 - High-quality video rendering with gpu-next and Vulkan.
