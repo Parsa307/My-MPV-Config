@@ -11,8 +11,8 @@ If you're experiencing issues, try [Troubleshooting](https://github.com/Parsa307
 Configuration based on these excellent guides and setups:
 
 - [MPV Manual](https://mpv.io/manual/stable)
-- [mpv.conf Guide by mpv-player (GitHub)](https://raw.githubusercontent.com/mpv-player/mpv/release/0.40/etc/mpv.conf)
-- [thumbfast.conf on GitHub (po5)](https://raw.githubusercontent.com/po5/thumbfast/master/thumbfast.conf)
+- [mpv.conf Guide by mpv-player (GitHub)](https://github.com/mpv-player/mpv/blob/v0.40.0/etc/mpv.conf)
+- [thumbfast.conf on GitHub (po5)](https://github.com/po5/thumbfast/blob/master/thumbfast.conf)
 - [sub-select Wiki on GitHub (CogentRedTester)](https://github.com/CogentRedTester/mpv-sub-select/wiki/Example-Configs)
 
 ## ✅ Features
