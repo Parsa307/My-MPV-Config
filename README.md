@@ -6,37 +6,37 @@ You may want to tweak some options depending on your system, display, or persona
 
 If you're experiencing issues, try [Troubleshooting](https://github.com/Parsa307/My-MPV-Config?tab=readme-ov-file#%EF%B8%8F-troubleshooting).
 
-## 📋 Sources
+# 📋 Sources
 
 Configuration based on these excellent guides and setups:
 
-- [MPV Manual](https://mpv.io/manual/stable)
-- [mpv.conf Guide by mpv-player (GitHub)](https://github.com/mpv-player/mpv/blob/v0.40.0/etc/mpv.conf)
-- [thumbfast.conf on GitHub (po5)](https://github.com/po5/thumbfast/blob/master/thumbfast.conf)
-- [sub-select Wiki on GitHub (CogentRedTester)](https://github.com/CogentRedTester/mpv-sub-select/wiki/Example-Configs)
+* [MPV Manual](https://mpv.io/manual/stable)
+* [mpv.conf Guide by mpv-player (GitHub)](https://github.com/mpv-player/mpv/blob/v0.40.0/etc/mpv.conf)
+* [thumbfast.conf on GitHub (po5)](https://github.com/po5/thumbfast/blob/master/thumbfast.conf)
+* [sub-select Wiki on GitHub (CogentRedTester)](https://github.com/CogentRedTester/mpv-sub-select/wiki/Example-Configs)
 
-## ✅ Features
+# ✅ Features
 
-- Ignore hidden is disabled for autoload.
-- Default OSC disabled, use [ModernZ](https://github.com/Samillion/ModernZ) (More modern).
-- High-quality video rendering with gpu-next and Vulkan.
-- Hardware decoding enabled.
-- HDR enabled.
-- Automatic language and subtitle preferences (Japanese audio, English subs).
-- WEBP loseless quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows).
-- Subtitle with matching audio disabled.
-- Subtitle fix timing enabled.
-- Custom key bindings for volume, frame-step.
-- Hardware decoding enabled for thumbfast.
-- Compatible with [sub-select](https://github.com/CogentRedTester/mpv-sub-select) for better subtitle stream handling.
+* Ignore hidden is disabled for autoload.
+* Default OSC disabled, use [ModernZ](https://github.com/Samillion/ModernZ) (More modern).
+* High-quality video rendering with gpu-next and Vulkan.
+* Hardware decoding enabled.
+* HDR enabled.
+* Automatic language and subtitle preferences (Japanese audio, English subs).
+* WEBP loseless quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows).
+* Subtitle with matching audio disabled.
+* Subtitle fix timing enabled.
+* Custom key bindings for volume, frame-step.
+* Hardware decoding enabled for thumbfast.
+* Compatible with [sub-select](https://github.com/CogentRedTester/mpv-sub-select) for better subtitle stream handling.
 
-## 💡 Notes
+# 💡 Notes
 
-- You may want to adjust alang, slang to your own preferences.
-- I also use [autoload](https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/autoload.lua) is recommended to auto-add media files to the MPV playlists.
-- sub-select is recommended to auto-pick the best subtitle track. It's especially helpful when dealing with multiple sub streams like signs & songs vs full subs.
+* You may want to adjust alang, slang to your own preferences.
+* I also use [autoload](https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/autoload.lua) is recommended to auto-add media files to the MPV playlists.
+* sub-select is recommended to auto-pick the best subtitle track. It's especially helpful when dealing with multiple sub streams like signs & songs vs full subs.
 
-## 🔧 Where to Put These
+# 🔧 Where to Put These
 
 Place the following files in your mpv config folder:
 
@@ -46,12 +46,12 @@ Place the following files in your mpv config folder:
 - `mpv/script-opts/sub-select.json` (Linux) or `mpv\script-opts\sub-select.json` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
 - `mpv/script-opts/autoload.conf` (Linux) or `mpv\script-opts\autoload.conf` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
 
-## 💻 My Specs
-- Host: MSI Raider GE76 12UGS
-- CPU: 12th Gen Intel(R) Core(TM) i7-12700H (20) @ 4.70 GHz
-- GPU: NVIDIA Geforce RTX 3070 Ti Laptop GPU
-- Memory: 31.10 GiB
+# 💻 My Specs
+* Host: MSI Raider GE76 12UGS
+* CPU: 12th Gen Intel(R) Core(TM) i7-12700H (20) @ 4.70 GHz
+* GPU: NVIDIA Geforce RTX 3070 Ti Laptop GPU
+* Memory: 31.10 GiB
 
-## ⚙️ Troubleshooting
-- Enable caching by undoing this [commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb). (Helps freezing issues on NTFS). (Downside, uses More System Memory)
-- Changing the filesystem. (We recommend EXT4 or BTRFS)
+# ⚙️ Troubleshooting
+* Enable caching by undoing this [commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb). (Helps freezing issues on NTFS). (Downside, uses More System Memory)
+* Changing the filesystem. (We recommend EXT4 or BTRFS)
