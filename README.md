@@ -4,7 +4,7 @@ This is my custom configuration for [mpv](https://mpv.io), a powerful and custom
 
 You may want to tweak some options depending on your system, display, or personal preferences.
 
-If you're experiencing issues, try [Troubleshooting](https://codeberg.org/Parsast/My-MPV-Config#troubleshooting).
+If you're experiencing issues, try Troubleshooting.
 
 # 📋 Sources
 
