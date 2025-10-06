@@ -4,7 +4,7 @@ This is my custom configuration for [mpv](https://mpv.io), a powerful and custom
 
 You may want to tweak some options depending on your system, display, or personal preferences.
 
-If you're experiencing issues, try [Troubleshooting](https://github.com/Parsa307/My-MPV-Config?tab=readme-ov-file#%EF%B8%8F-troubleshooting).
+If you're experiencing issues, try [Troubleshooting](https://codeberg.org/Parsast/My-MPV-Config#troubleshooting).
 
 # 📋 Sources
 
@@ -53,5 +53,5 @@ Place the following files in your mpv config folder:
 - Memory: 31.10 GiB
 
 # ⚙️ Troubleshooting
-- Enable caching by undoing this [commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb). (Helps freezing issues on NTFS). (Downside, uses More System Memory)
+- Enable caching by undoing this [commit](https://codeberg.org/Parsast/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb). (Helps freezing issues on NTFS). (Downside, uses More System Memory)
 - Changing the filesystem. (We recommend EXT4 or BTRFS)
