@@ -1,6 +1,6 @@
 [
     {
-        "alang": ["ja", "jp", "jpn"],
+        "alang": ["jpn", "ja"],
         "slang": ["en%-us", "eng?"],
         "whitelist": ["dialog"]
     }
