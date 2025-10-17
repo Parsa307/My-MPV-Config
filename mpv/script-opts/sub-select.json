@@ -1,7 +1,7 @@
 [
     {
         "alang": ["jpn", "ja"],
-        "slang": ["en%-us", "eng?"],
+        "slang": ["eng?"],
         "whitelist": ["dialog"]
     }
 ]
