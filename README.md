@@ -1,5 +1,7 @@
 # My MPV Config
 
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge-sq.svg)](https://nogithub.codeberg.page)
+
 This is my custom configuration for [mpv](https://mpv.io), a powerful and customizable media player. It's optimized for a smooth playback, and a good default experience. Suitable for **Anime** watching. Tested on **CachyOS**.
 
 You may want to tweak some options depending on your system, display, or personal preferences.
