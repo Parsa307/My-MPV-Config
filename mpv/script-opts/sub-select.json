@@ -2,6 +2,6 @@
     {
         "alang": "jpn",
         "slang": "eng",
-        "whitelist": ["dialog"]
+        "whitelist": ["dialog", "full"]
     }
 ]
