@@ -25,7 +25,7 @@ Configuration based on these excellent guides and setups:
 - Hardware decoding enabled.
 - HDR enabled.
 - Automatic language and subtitle preferences (Japanese audio, English subs).
-- WEBP loseless quality screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows).
+- PNG screenshots saved to `~/Pictures/Screenshots` (Linux) or `%USERPROFILE%\Pictures\Screenshots` (Windows).
 - Subtitle with matching audio disabled.
 - Subtitle fix timing enabled.
 - Custom key bindings for volume, frame-step.
@@ -42,18 +42,12 @@ Configuration based on these excellent guides and setups:
 
 Place the following files in your mpv config folder:
 
-- `mpv/mpv.conf` (Linux) or `mpv\mpv.conf` (Windows) → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
-- `mpv/input.conf` (Linux) or `mpv\input.conf` (Windows) → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
-- `mpv/script-opts/thumbfast.conf` (Linux) or `mpv\script-opts\thumbfast.conf` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
-- `mpv/script-opts/sub-select.json` (Linux) or `mpv\script-opts\sub-select.json` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
-- `mpv/script-opts/autoload.conf` (Linux) or `mpv\script-opts\autoload.conf` (Windows) → `~/.config/mpv/script-opts` (Linux) or `%APPDATA%\mpv\script-opts` (Windows)
-
-# 💻 My Specs
-- Host: MSI Raider GE76 12UGS
-- CPU: 12th Gen Intel(R) Core(TM) i7-12700H (20) @ 4.70 GHz
-- GPU: NVIDIA Geforce RTX 3070 Ti Laptop GPU
-- Memory: 31.10 GiB
+- `mpv.conf` (Linux) or `mpv\mpv.conf` (Windows) → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
+- `input.conf` (Linux) or `mpv\input.conf` (Windows) → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
+- `script-opts/thumbfast.conf` (Linux) or `script-opts\thumbfast.conf` (Windows) → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
+- `script-opts/sub-select.json` (Linux) or `script-opts\sub-select.json` (Windows) → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
+- `script-opts/autoload.conf` (Linux) or `script-opts\autoload.conf` (Windows) → `~/.config/mpv` (Linux) or `%APPDATA%\mpv` (Windows)
 
 # ⚙️ Troubleshooting
 - Enable caching by undoing this [commit](../../../commit/1302797647384ee899a4a5f72a33fd7305ac8beb), [GitHub commit](https://github.com/Parsa307/My-MPV-Config/commit/1302797647384ee899a4a5f72a33fd7305ac8beb). (Helps freezing issues on NTFS). (Downside, uses More System Memory)
-- Changing the filesystem. (We recommend EXT4 or BTRFS)
+- Changing the filesystem. (I recommend EXT4 or BTRFS)
