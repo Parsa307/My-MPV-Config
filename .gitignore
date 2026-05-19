@@ -1,2 +1,5 @@
 scripts
 fonts
+script-opts/modernz.conf
+script-opts/sub_select.conf
+script-opts/autoload.conf
